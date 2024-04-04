@@ -1,0 +1,12 @@
+{
+  "name": "entregable2",
+  "version": "1.0.0",
+  "description": "Trabajando con filesystem de NODE",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oscar Frischmann",
+  "license": "ISC"
+}

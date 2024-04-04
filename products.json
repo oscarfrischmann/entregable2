@@ -1,0 +1,41 @@
+{
+  "title": "Agua",
+  "description": "Fresca",
+  "price": 10,
+  "thumbnail": "http://google.com",
+  "code": "AGU01",
+  "stock": 5,
+  "path": "./products.json",
+  "products": 0,
+  "id": 0
+}{
+  "title": "Vino",
+  "description": "Mendocino",
+  "price": 15,
+  "thumbnail": "http://yahoo.com",
+  "code": "VIN01",
+  "stock": 5,
+  "path": "./products.json",
+  "products": 0,
+  "id": 1
+}{
+  "title": "cerveza",
+  "description": "quilmes",
+  "price": 20,
+  "thumbnail": "http://bing.com",
+  "code": "CERV01",
+  "stock": 5,
+  "path": "./products.json",
+  "products": 0,
+  "id": 2
+}{
+  "title": "Gin",
+  "description": "Inglés",
+  "price": 25,
+  "thumbnail": "http://yahoo.com",
+  "code": "GIN01",
+  "stock": 5,
+  "path": "./products.json",
+  "products": 0,
+  "id": 3
+}{"title":"Agua","description":"Fresca","price":10,"thumbnail":"http://google.com","code":"AGU01","stock":5,"path":"./products.json","products":0,"id":0}{"title":"Vino","description":"Mendocino","price":15,"thumbnail":"http://yahoo.com","code":"VIN01","stock":5,"path":"./products.json","products":0,"id":1}{"title":"cerveza","description":"quilmes","price":20,"thumbnail":"http://bing.com","code":"CERV01","stock":5,"path":"./products.json","products":0,"id":2}{"title":"Gin","description":"Inglés","price":25,"thumbnail":"http://yahoo.com","code":"GIN01","stock":5,"path":"./products.json","products":0,"id":3}{"title":"Agua","description":"Fresca","price":10,"thumbnail":"http://google.com","code":"AGU01","stock":5,"path":"./products.json","products":0,"id":0}{"title":"Vino","description":"Mendocino","price":15,"thumbnail":"http://yahoo.com","code":"VIN01","stock":5,"path":"./products.json","products":0,"id":1}{"title":"cerveza","description":"quilmes","price":20,"thumbnail":"http://bing.com","code":"CERV01","stock":5,"path":"./products.json","products":0,"id":2}{"title":"Gin","description":"Inglés","price":25,"thumbnail":"http://yahoo.com","code":"GIN01","stock":5,"path":"./products.json","products":0,"id":3}
