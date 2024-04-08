@@ -129,6 +129,7 @@ let product;
 product = new ProductManager('Agua', 'Fresca', 'http://google.com', 'AGU01', 5, './products.json');
 product.addProduct(product);
 console.log('1');
+
 product = new ProductManager('Agua', 'Fresca', 10, 'http://google.com', 'AGU01', 5, './products.json');
 product.addProduct(product);
 console.log('2');

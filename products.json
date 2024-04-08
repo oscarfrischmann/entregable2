@@ -1,1 +1,42 @@
-[{"title":"Agua","description":"Fresca","price":10,"thumbnail":"http://google.com","code":"AGU01","stock":5,"path":"./products.json","id":0},{"title":"cerveza","description":"quilmes","price":20,"thumbnail":"http://bing.com","code":"CERV01","stock":5,"path":"./products.json","id":2},{"title":"Gin","description":"Inglés","price":500,"thumbnail":"http://yahoo.com","code":"GIN01","stock":4,"path":"./products.json","id":3},{"title":"Coca-Cola","description":"con hielo","price":5,"thumbnail":"http://yahoo.com","code":"KO01","stock":5,"path":"./products.json","id":4}]
+[
+  {
+    "title": "Agua",
+    "description": "Fresca",
+    "price": 10,
+    "thumbnail": "http://google.com",
+    "code": "AGU01",
+    "stock": 5,
+    "path": "./products.json",
+    "id": 0
+  },
+  {
+    "title": "cerveza",
+    "description": "quilmes",
+    "price": 20,
+    "thumbnail": "http://bing.com",
+    "code": "CERV01",
+    "stock": 5,
+    "path": "./products.json",
+    "id": 2
+  },
+  {
+    "title": "Gin",
+    "description": "Inglés",
+    "price": 500,
+    "thumbnail": "http://yahoo.com",
+    "code": "GIN01",
+    "stock": 4,
+    "path": "./products.json",
+    "id": 3
+  },
+  {
+    "title": "Coca-Cola",
+    "description": "con hielo",
+    "price": 5,
+    "thumbnail": "http://yahoo.com",
+    "code": "KO01",
+    "stock": 5,
+    "path": "./products.json",
+    "id": 4
+  }
+]
