@@ -115,8 +115,14 @@ class ProductManager {
 				console.log(index, 'indexx');
 				await parseProducts.splice(index, 1);
 				console.log('productos splice', parseProducts);
+
+				parseProducts.forEach((product, index) => {
+					product.id = index;
+				});
+				console.log(parseProducts);
+
 				let newProductList = JSON.stringify(parseProducts);
-				fs.promises.writeFile(getCode.path, newProductList, 'utf-8');
+				await fs.promises.writeFile(getCode.path, newProductList, 'utf-8');
 			} catch (e) {
 				console.log(e);
 			}
